@@ -1,0 +1,10 @@
+*.csv
+*.sqlite
+*.html
+*.pdf
+*.zip
+*.xls
+*.xlsx
+
+.ipynb_checkpoints/
+data-set-options.pdf
