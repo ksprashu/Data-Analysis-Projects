@@ -1,5 +1,3 @@
-*.pdf
-*.html
-*.csv
-*.zip
 .ipynb_checkpoints/
+noshowappointments-kagglev2-may-2016.csv
+investigate_dataset_no_show_appts.zip
